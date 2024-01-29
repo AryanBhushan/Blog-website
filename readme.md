@@ -14,11 +14,12 @@ Download the file unzip it and open file in vs-code.
     ```
 - This will install all the packages needed to run this project
 
--Than use:
+- Than use:
 
     ```bash
     node app.js
     ```
+    
 - Now you can access the website at localhost:3000
 
 ## Working and Screen Shots 

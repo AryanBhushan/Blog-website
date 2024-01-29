@@ -25,12 +25,27 @@ Download the file unzip it and open file in vs-code.
 ## Working and Screen Shots 
 
 ### Home Page ->
+
+- **You can Navigate to different pages by clicking on any of top right button**
+
+
+  
 ![Homepage](/photos/home.jpeg)
 
+ 
 ### Compose Page
+- **Here you can add new post and press publish**
+
+
+
 ![Compose](/photos/compose.jpeg)
 
-### Post Page
+
+### Post Page 
+
+
+
+- **By pressing on readmore it will navigate to different page where you can see all content of the post**
 ![ReadMore](/photos/Readmore.jpeg)
 
 

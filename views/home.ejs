@@ -1,0 +1,14 @@
+<%-include("partials/header") -%>
+
+<h1>HOME</h1>
+<p><%=hSC %></p>
+
+<% posts.forEach(function(posted){ %>
+   
+    <h1><%=posted.title%></h1>
+    <p><%=posted.posts.substring(0,100) %>...<a href=<%="/posts/"+posted._id%>>Read More</a></p>
+ 
+<%}) %>
+
+
+<%-include("partials/footer") -%>
